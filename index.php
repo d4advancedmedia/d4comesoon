@@ -1,7 +1,8 @@
 <?php
 /*
 	Plugin Name: D4 Coming Soon
-	Version: 2018.04.03
+	Description: Dumb coming soon plugin: activate to add, deactivate to remove. 
+	Version: 1.0
 	Author: D4 Adv. Media
 */
 
